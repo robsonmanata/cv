@@ -78,9 +78,10 @@ img{
   margin-left: 5%;
 }
 .lowersection{
-  padding-left: 8px;
-    padding-right: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
 }
+
 
 .btn {
   background: #207DFF;
